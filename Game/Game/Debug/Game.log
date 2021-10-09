@@ -1,0 +1,15 @@
+﻿  Game.cpp
+C:\Users\Admin\source\repos\Game\Game\Hero_dumb.h(18,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Game\Game\Hero_dumb.h(18,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Game\Game\Platform.h(17,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Game\Game\Platform.h(17,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Platform.cpp
+C:\Users\Admin\source\repos\Game\Game\Platform.h(17,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Game\Game\Platform.h(17,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Window.cpp
+C:\Users\Admin\source\repos\Game\Game\Hero_dumb.h(18,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Game\Game\Hero_dumb.h(18,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Game\Game\Platform.h(17,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Game\Game\Platform.h(17,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  Game.vcxproj -> C:\Users\Admin\source\repos\Game\Debug\Game.exe
